@@ -15,7 +15,7 @@ Status:
 * [ ] MPNS Windows 8
 * [ ] ADM Amazon Fire OS
 * [ ] Meteor in app notifications
-
+ 
 ## Install
 ```bash
   $ meteor add raix:push
